@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Admin-Profile"],{"681a":function(e,n,i){"use strict";i.r(n);var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},t=[function(){var e=this,n=e.$createElement,i=e._self._c||n;return i("div",[i("h2",[e._v("Aca van la configuración de Perfil")])])}],a={name:"AdminProfile"},l=a,c=i("2877"),u=Object(c["a"])(l,r,t,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=Admin-Profile.23ff59c9.js.map
