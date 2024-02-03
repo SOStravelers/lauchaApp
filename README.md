@@ -1,4 +1,4 @@
-# Laucha Api
+# Apuesta Laucha App
 
 ## Project setup
 
