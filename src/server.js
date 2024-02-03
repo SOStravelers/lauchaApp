@@ -7,6 +7,7 @@ import bodyParser from "body-parser";
 import localeMiddleware from "express-locale";
 import db from "./db.js";
 import routes from "./routes/index.js";
+import path from "path"; // Línea agregada
 
 // check connection
 db.once("open", () => {
