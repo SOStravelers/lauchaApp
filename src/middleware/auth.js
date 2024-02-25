@@ -3,7 +3,6 @@ import dotenv from "dotenv";
 
 export const verificarAuth = (req, res, next) => {
   const token = req.get("token");
-  console.log(token);
   jwt.verify(token, process.env.TOKEN_ACTIVATE, (error, decoded) => {
     if (error) {
       return res.status(401).json({ mensaje: "Usuario no válido", error });
